@@ -9,7 +9,7 @@ TwitterAPI will be utilized to query avocado content to create data frame.
 + Returning filter content by keyword "avocado"
 + Perform EDA - analyzing and visualizing the data using Python libraries Pandas, Numpy and Matplotlib
 + Determine relationship between recent avocado twitter content and U.S. retail sales
-## Motivation & Background
+## 🥑 Motivation & Background 🥑
 > This project is interesting to me because I am an avocado consumer and food professional who saw other people answering question with avocado prices and sales volumes data. I don't know if others have investigated a relationship between recent Twitter data and retail sales data specific to avocado. My intent is to use recent Twitter content filtered by keyword avocado by successfully connecting to TwitterAPI. I see potential to assist marketers & sellers to better target their engaged consumers.
 ## Table of contents
 1. Code
@@ -38,3 +38,7 @@ Tells about final dataset: rows, columns
 API - was there any limit
 
 Do we have to get authentication
+
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
