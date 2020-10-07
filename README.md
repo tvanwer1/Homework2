@@ -15,20 +15,26 @@ TwitterAPI will be utilized to query avocado content to create data frame.
 1. Code
 2. Python Notebook
 ## Software Requirements
-https://developer.twitter.com/en/docs  - 
 
-Packages: 
+### API
+[Twitter Web API](https://developer.twitter.com/en/docs) 
+
+### Packages: 
 
 + [Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/) - data analysis
 	
 + [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/ ) - data visualization
 	
-+ [Tweepy](https://www.tweepy.org/)
++ [Tweepy](https://www.tweepy.org/) - access to Twitter Web API
 	
-Dependencies API
+### Dependencies API
 
 ## Data
+
 Saved in project repo
+
 Tells about final dataset: rows, columns
+
 API - was there any limit
+
 Do we have to get authentication
