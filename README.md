@@ -19,11 +19,11 @@ https://developer.twitter.com/en/docs  -
 
 Packages: 
 
-[Pandas](https://pandas.pydata.org/) ; [Numpy](https://numpy.org/) data analysis
++[Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/) - data analysis
 	
-[Matplotlib](https://matplotlib.org/) ; [Seaborn](https://seaborn.pydata.org/ )  data visualization
++[Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/ ) - data visualization
 	
-[Tweepy](https://www.tweepy.org/)
++[Tweepy](https://www.tweepy.org/)
 	
 Dependencies API
 
