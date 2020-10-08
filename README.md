@@ -13,7 +13,7 @@ This project is focused on Twitter content with keyword avocado. The task is to 
 > This project is interesting to me because I am an avocado consumer and food professional who used avocado prices and sales volumes data for first assignment. I don't know if others have investigated Twitter data specific to avocados. My intent is to gather Twitter content filtered by keyword avocado by successfully connecting to Twitter API. I see the potential to assist marketers & sellers to better target their engaged consumers.
 
 ## Table of contents
-1. Code
+1. [Code](https://github.com/tvanwer1/Homework2/blob/main/Technical%20Notebook/Hmwk2.ipynb)
 2. Python Notebook
 
 ## Software Requirements
