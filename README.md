@@ -1,5 +1,5 @@
 # Can tweets lead you to more :avocado: sales?
-TwitterAPI 
+
 
 ## Overview
 This project is focused on Twitter content with keyword avocado. The task is to use the Twitter API to query data on avocados and perform analysis.
