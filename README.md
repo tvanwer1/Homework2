@@ -33,7 +33,7 @@ This project is focused on Twitter content with keyword avocado. The task is to 
 
 ## Data
 
-Saved in project repo
+[Saved in project repo](https://github.com/tvanwer1/Homework2/tree/main/data)
 
 Final dataset is 320 rows x 2 columns.
 
