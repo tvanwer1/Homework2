@@ -1,19 +1,21 @@
 # Homework2
 TwitterAPI 
+
 ## Overview
-This project is focused on U.S. retail avocado sales by units sold and recent Twitter content with keyword avocado.
-The task is to determine relationship between Twitter data and U.S. retail sales data for avocados.
-TwitterAPI will be utilized to query avocado content to create data frame.
+This project is focused on Twitter content with keyword avocado. The task is to use the Twitter API to query data on avocados and perform analysis.
+
 ## Goals
 + Successfully connecting to TwitterAPI
 + Returning filter content by keyword "avocado"
 + Perform EDA - analyzing and visualizing the data using Python libraries Pandas, Numpy and Matplotlib
-+ Determine relationship between recent avocado twitter content and U.S. retail sales
+
 ## :avocado: Motivation & Background :avocado:
-> This project is interesting to me because I am an avocado consumer and food professional who saw other people answering question with avocado prices and sales volumes data. I don't know if others have investigated a relationship between recent Twitter data and retail sales data specific to avocado. My intent is to use recent Twitter content filtered by keyword avocado by successfully connecting to TwitterAPI. I see potential to assist marketers & sellers to better target their engaged consumers.
+> This project is interesting to me because I am an avocado consumer and food professional who used avocado prices and sales volumes data for first assignment. I don't know if others have investigated Twitter data specific to avocado. My intent is to use recent Twitter content filtered by keyword avocado by successfully connecting to Twitter API. I see potential to assist marketers & sellers to better target their engaged consumers.
+
 ## Table of contents
 1. Code
 2. Python Notebook
+
 ## Software Requirements
 
 ### API
