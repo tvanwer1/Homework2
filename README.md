@@ -23,7 +23,7 @@ This project is focused on Twitter content with keyword avocado. The task is to 
 
 ### Packages: 
 
-+ [Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/) - data analysis
++ [Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/), [TextBlob](https://textblob.readthedocs.io/en/dev/install.html) - data analysis
 	
 + [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/ ) - data visualization
 	
@@ -35,7 +35,7 @@ This project is focused on Twitter content with keyword avocado. The task is to 
 
 Saved in project repo
 
-Tells about final dataset: rows, columns
+Final dataset is 320 rows x 2 columns.
 
 + [Twitter API Limits](https://developer.twitter.com/en/docs/twitter-api/v1/rate-limits) - only provides sample dataset. Additional costs for more extensive data set.
 
