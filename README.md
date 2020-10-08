@@ -29,7 +29,7 @@ This project is focused on Twitter content with keyword avocado. The task is to 
 	
 + [Tweepy](https://www.tweepy.org/) - access to Twitter Web API
 	
-### Dependencies API
+
 
 ## Data
 
