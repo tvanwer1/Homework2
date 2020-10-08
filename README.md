@@ -1,4 +1,4 @@
-# Homework2
+# Can tweets lead you to more :avocado: sales?
 TwitterAPI 
 
 ## Overview
