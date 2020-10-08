@@ -35,10 +35,7 @@ Saved in project repo
 
 Tells about final dataset: rows, columns
 
-API - was there any limit
++ [Twitter API Limits](https://developer.twitter.com/en/docs/twitter-api/v1/rate-limits) - only provides sample dataset. Additional costs for more extensive data set.
 
-Do we have to get authentication
 
-![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
