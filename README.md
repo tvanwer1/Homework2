@@ -1,4 +1,4 @@
-# Can tweets lead you to more :avocado: sales?
+# Can tweets lead to more :avocado: sales?
 
 
 ## Overview
